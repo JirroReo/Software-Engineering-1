@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T11:05:23.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="PMUKIIPL9CCoMHZsqtwM" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T11:08:49.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="_o-ChcoBVW2RcEW8fxtn" version="20.1.3" type="github">
   <diagram id="YzujsNq1Css8Sywb9bI2" name="Page-1">
-    <mxGraphModel dx="787" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2319" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="rVb7NmRtOqhLB956JAOC-26" value="User information, assistance requests, authorities&#39; responses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="120" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rVb7NmRtOqhLB956JAOC-27" value="&lt;h1&gt;Context Diagram&lt;/h1&gt;&lt;p&gt;A context diagram outlines how external entities interact with an internal software system. It&#39;s primarily used to help businesses wrap their heads around the scope of a system. As a result, they can figure out how best to design a new system and its requirements or how to improve an existing system.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-60" width="270" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
